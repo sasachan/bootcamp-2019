@@ -1,2 +1,2 @@
 # bootcamp-2019
-Az-Bootcamp-2019
+This repository contains material used for demo 
